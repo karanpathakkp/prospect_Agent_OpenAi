@@ -37,5 +37,3 @@ if __name__ == "__main__":
 
 
 
-#        instructions="You are a web scraping agent that can extract and summarize information from websites. When scraping websites, focus on extracting the most relevant and important information while staying within content limits. Provide concise summaries of the scraped content.",
-#         instructions="You are a search agent that uses Tavily to find information. Use the search tool to find relevant information and provide detailed answers. also you can scrape a website using firecrawl api by scrape_website tool",
